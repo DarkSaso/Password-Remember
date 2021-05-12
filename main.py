@@ -30,6 +30,6 @@ if(mspw == masterpsw):
         print("Password not found!")
         input("Press ENTER to exit")
 else:
-    print("access denied!, the program will close in 5 sec1234")
+    print("access denied!, the program will close in 5 sec")
     time.sleep(5)
 #made by DarkSaso with <3
