@@ -1,4 +1,4 @@
-# PasswordRemember
+# PasswordRemember 2.0
 * Remember your password
 ### Setup
 
